@@ -1,4 +1,4 @@
-![logo](https://github.com/mouryaansh10254/Ansh-Mourya/blob/main/2.png)
+![logo](https://github.com/mouryaansh10254/mouryaansh10254/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Ansh Mourya</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
